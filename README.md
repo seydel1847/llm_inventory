@@ -1,2 +1,4 @@
-# llm_inventory
-Inventory of LLM models
+This repo contains inventory of LLM models.
+
+Links:
+
