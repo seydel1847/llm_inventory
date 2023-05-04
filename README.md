@@ -12,3 +12,7 @@ Cerebras-GPT: A Family of Open, Compute-efficient, Large Language Models https:/
 
 The Ultimate Battle of Language Models: Lit-LLaMA vs GPT3.5 vs Bloom vs … https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/
 
+List of Open Sourced Fine-Tuned Large Language Models (LLM) https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76
+
+Awesome-LLM https://github.com/Hannibal046/Awesome-LLM
+
